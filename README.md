@@ -6,12 +6,6 @@ This Power BI dashboard provides comprehensive insights into e-commerce sales pe
 
 ---
 
-## 🚀 Dashboard Preview
-
-![Dashboard Screenshot](screenshot/DashBoard_overview.png)
-
----
-
 ## 🎯 Business Objectives
 
 - Analyze overall sales and profit performance.
